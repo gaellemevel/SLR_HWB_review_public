@@ -74,6 +74,6 @@ Contains the processed data of SLR exposure for each country. Based on Kulp, S. 
 
 **nb_people_exposed_M:** Number of people, in millions, exposed to SLR in 2050 based on Kulp & Strauss, 2019. Model selected: Scenario K14, Coastal DEM, RCP 4.5, 2050, permanent inundation.
 
-**noref_XXXX:** This country doesn't doesn't have a match between the evidence map dataset or in the SLR dataset from Kulp & Strauss. This can be because of two reasons. 1- (n=2) The country is located above 60°N, so the SLR model is undefined at this latitude. 2- (n=59) Because there are less than 0.01M people exposed in the model, therefore the number of people exposed in rounded up to 0. 
+**noref_XXXX:** This country doesn't doesn't have a match between the evidence map dataset or in the SLR dataset from Kulp & Strauss. This can be because of two reasons. 1- (n=2) The country is located above 60°N, so the SLR model is undefined at this latitude. 2- (n=59) Because there are less than 0.01M people exposed in the model, therefore the number of people exposed is rounded up to 0. 
 
 **SIDS:** Flags the 39 Small Island Developing States, as defined by the UN (https://www.un.org/ohrlls/content/list-sids).
