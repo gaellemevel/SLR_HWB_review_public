@@ -64,6 +64,16 @@ Contains all the data used for analyses and graphs of the article. Rows describe
 **language_original:** Original language of the publication. 
 
 ## Database 2 - SLR exposure vs number of publications
-_File: "MSc_chap1_full-dataset_public_20260201.csv"_
+_File: "MSc_chap1_comparison_SLR-exposure_nb-papers_allcountries_public_20260209.csv"_
 
 Contains the processed data of SLR exposure for each country. Based on Kulp, S. A., & Strauss, B. H. (2019). New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding. Nature Communications, 10(1), 4844. https://doi.org/10.1038/s41467-019-12808-z
+
+**country:** Coastal country name.
+
+**nb_papers_about:** Number of papers identified about this county in our evidence map. 
+
+**nb_people_exposed_M:** Number of people, in millions, exposed to SLR in 2050 based on Kulp & Strauss, 2019. Model selected: Scenario K14, Coastal DEM, RCP 4.5, 2050, permanent inundation.
+
+**noref_XXXX:** This country doesn't doesn't have a match between the evidence map dataset or in the SLR dataset from Kulp & Strauss. This can be because of two reasons. 1- (n=2) The country is located above 60°N, so the SLR model is undefined at this latitude. 2- (n=59) Because there are less than 0.01M people exposed in the model, therefore the number of people exposed in rounded up to 0. 
+
+**SIDS:** Flags the 39 Small Island Developing States, as defined by the UN (https://www.un.org/ohrlls/content/list-sids).
