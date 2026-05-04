@@ -2,7 +2,7 @@
 Mével, G., Charlotte H. Chang, Yuta J. Masuda & Brian E. Robinson
 
 ## Supplementary Information
-_File: "MSc_thesis_chap1_review_supp-info_v5.pdf"_
+_File: "MSc_thesis_chap1_review_supp-info_v6.pdf"_
 
 Contains additional graphs and tables referred to in the article, as well as the LLM prompts and scripts used.
 
