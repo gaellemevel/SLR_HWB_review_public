@@ -4,7 +4,7 @@ Mével, G., Charlotte H. Chang, Yuta J. Masuda & Brian E. Robinson
 ## Supplementary Information
 _File: "MSc_thesis_chap1_review_supp-info_v5.pdf"_
 
-Contains additional graphs and tables referred to in the article, as well as the LLM prompts used.
+Contains additional graphs and tables referred to in the article, as well as the LLM prompts and scripts used.
 
 ## Database 1 - Publication metadata and geolocation
 _File: "MSc_chap1_full-dataset_public_20260201.csv"_
